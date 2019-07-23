@@ -1,0 +1,2 @@
+# scripts
+Cocos-BCX scripts.
